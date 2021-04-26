@@ -48,7 +48,7 @@ This document will briefly introduce how to use the multilingual model.
 pip install paddlepaddle
 
 # gpu
-pip instll paddlepaddle-gpu
+pip install paddlepaddle-gpu
 ```
 
 <a name="paddleocr_package_install"></a>
